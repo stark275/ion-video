@@ -1,0 +1,7 @@
+{
+  "name": "viodeo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
